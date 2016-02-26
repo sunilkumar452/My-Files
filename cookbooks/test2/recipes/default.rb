@@ -1,0 +1,12 @@
+#
+# Cookbook Name:: test2
+# Recipe:: default
+#
+# Copyright 2016, YOUR_COMPANY_NAME
+#
+# All rights reserved - Do Not Redistribute
+#
+
+user 'siva' do
+shell '/bin/bash'
+end
